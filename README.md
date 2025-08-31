@@ -1,3 +1,6 @@
+
+<!-- 
+
 # 💫 About Me:
 👯 I’m looking to collaborate on new python projects<br>🌱 I’m currently learning machine learning and shell scripting<br>💬 Ask me about C, C++, python and Linux<br>⚡ Fun fact : I enjoy cycling
 
@@ -11,5 +14,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rammani28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
